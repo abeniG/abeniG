@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" />
 </p>
 
 <h1 align="center">Hi, I’m Abeni Girmaye 👋</h1>
@@ -7,14 +7,19 @@
   <strong>Flutter Developer | CS Graduate (3.6 GPA) | CEO & Lead Developer @ Degash</strong>
 </p>
 <p align="center">
-  Building <strong>clean, scalable, user-friendly mobile apps</strong> with <strong>Flutter</strong>, <strong>Bloc</strong>, <strong>Clean Architecture</strong>, and <strong>FlutterFlow</strong>.
+  Building <strong>clean, scalable, user-friendly mobile apps</strong> with 
+  <strong>Flutter</strong>, <strong>Bloc</strong>, <strong>Clean Architecture</strong>, and <strong>FlutterFlow</strong>.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" />
 </p>
 
 ---
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bloc-563D7C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Riverpod-FF4081?style=for-the-badge" />
@@ -27,13 +32,13 @@
 ---
 
 ### 🌱 Currently Learning
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
+</p>
+
 - AI & ML integration in Flutter apps 🤖  
 - Advanced GraphQL patterns & caching strategies  
-- Animations & micro-interactions in Flutter  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" />
-</p>
+- Animations, micro-interactions, and futuristic UI in Flutter  
 
 ---
 
@@ -63,11 +68,19 @@
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeniG&layout=compact&theme=radical&hide_title=true" />
 </p>
+
+---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeniG&theme=radical&hide_border=false" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="300" />
 </p>

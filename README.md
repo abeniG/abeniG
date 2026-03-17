@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hi, I’m Abeni Girmaye 👋</h1>
+<h1 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    👋 Hi, I’m Abeni Girmaye • Flutter Developer • Bloc • Clean Architecture • FlutterFlow • CEO @ Degash
+  </marquee>
+</h1>
+
 <p align="center">
-  <strong>Flutter Developer | CS Graduate (3.6 GPA) | CEO & Lead Developer @ Degash</strong>
-</p>
-<p align="center">
-  Building <strong>clean, scalable, user-friendly mobile apps</strong> with 
-  <strong>Flutter</strong>, <strong>Bloc</strong>, <strong>Clean Architecture</strong>, and <strong>FlutterFlow</strong>.
+  Building <strong>clean, scalable, user-friendly mobile apps</strong> with Flutter, Bloc, Clean Architecture & FlutterFlow.
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" />
+</p>
 
 ---
 
@@ -35,7 +39,7 @@
 
 - AI & ML integration in Flutter apps 🤖  
 - Advanced GraphQL patterns & caching strategies  
-- Animations, micro-interactions, and futuristic UI in Flutter  
+- Animations & micro-interactions in Flutter  
 
 ---
 
@@ -69,15 +73,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeniG&layout=compact&theme=radical&hide_title=true" />
 </p>
 
----
-
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeniG&theme=radical&hide_border=false" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
 </p>

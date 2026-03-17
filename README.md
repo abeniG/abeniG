@@ -39,9 +39,6 @@
   echo "Animations & micro-interactions in Flutter"
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
-</p>
 
 ---
 
@@ -81,7 +78,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeniG&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">

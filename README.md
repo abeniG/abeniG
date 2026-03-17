@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Abeni Girmaye
 
-<!--
-**abeniG/abeniG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 About Me
+Flutter Developer | Computer Science Graduate (3.6 GPA) | CEO & Lead Developer at **Degash** – connecting event organizers with customers in Ethiopia.  
+Passionate about building **clean, scalable, and user-friendly mobile apps**.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- **Languages & Frameworks:** Dart, Flutter, GraphQL  
+- **State Management:** Riverpod, Bloc, Freezed  
+- **Routing & Navigation:** GoRouter  
+- **Tools:** VS Code, Git, Firebase, REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+- **Degash App** – Event marketplace app for Ethiopia, connecting organizers and attendees seamlessly.  
+- Exploring AI integration in Flutter apps for smarter user experiences.  
+
+### 🌟 Fun Facts
+- Always experimenting with new Flutter packages & UI/UX patterns.  
+- Strong believer in **clean code, testable architecture, and reusable widgets**.  
+
+### 📫 Get in Touch
+- Email: [your-email@example.com](mailto:abenezerdeveloper@gmail.com)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/abenezer-girmaye-4ba381314/)  
+
+### ⚡ GitHub Stats
+![Abeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeniG&show_icons=true&theme=radical)
